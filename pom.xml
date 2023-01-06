@@ -28,9 +28,9 @@
    </distributionManagement>
 
 	<scm>
-		<connection>scm:git:git@github.com:sbade8440/my-app-root.git</connection>
-		<developerConnection>scm:git:git@github.com:sbade8440/my-app-root.git</developerConnection>
-		<url>https://github.com/sbade8440/my-app-root</url>
+		<connection>scm:git:git@github.com:jesfraser/my-app-root.git</connection>
+		<developerConnection>scm:git:git@github.com:jesfraser/my-app-root.git</developerConnection>
+		<url>https://github.com/jesfraser/my-app-root</url>
   </scm>
 
   <modules>
