@@ -4,7 +4,7 @@
 
   <groupId>com.example</groupId>
   <artifactId>project-example</artifactId>
-  <version>0.1-SNAPSHOT</version>
+  <version>0.1</version>
   <packaging>pom</packaging>
   <name>Project Example</name>
 
@@ -31,6 +31,7 @@
 		<connection>scm:git:git@github.com:jesfraser/my-app-root.git</connection>
 		<developerConnection>scm:git:git@github.com:jesfraser/my-app-root.git</developerConnection>
 		<url>https://github.com/jesfraser/my-app-root</url>
+    <tag>v0.1</tag>
   </scm>
 
   <modules>
