@@ -35,7 +35,7 @@
 
   <modules>
     <module>project-example-ear</module>
-    <module>project-example-ui</module>
+    <module>my-app-ui</module>
     <module>project-example-war</module>
   </modules>
 
